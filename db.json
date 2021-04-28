@@ -9,66 +9,6 @@
         "brand":300,
         "imageUrl":"https://rukminim1.flixcart.com/image/495/594/kk5rgy80/t-shirt/r/3/4/xxl-tblhdful-d32-tripr-original-imafzkbskeagqyzf.jpeg",
         "type":400
-      },
-      {
-        "id": 101,
-        "title": "T-Shirt",
-        "desc": "This is tshirt",
-        "prices":"800",
-        "customer_rating":"3",
-        "brand":301,
-        "imageUrl":"https://rukminim1.flixcart.com/image/495/594/kixgtjk0-0/t-shirt/h/u/4/s-bogrblhdful-z15-blive-original-imafyhv6qgdhmvzc.jpeg?q=50",
-        "type":400
-      },
-      {
-        "id": 102,
-        "title": "Trousers",
-        "desc": "This is tshirt",
-        "prices":"800",
-        "customer_rating":"4",
-        "brand":301,
-        "imageUrl":"https://rukminim1.flixcart.com/image/495/594/kf1fo280hlty2aw-0/t-shirt/e/d/t/-original-imafdfvv9kccjk9y.jpeg?q=50",
-        "type":400
-      },
-      {
-        "id": 103,
-        "title": "Shorts",
-        "desc": "This is tshirt",
-        "prices":"700",
-        "customer_rating":"1",
-        "brand":302,
-        "imageUrl":"https://rukminim1.flixcart.com/image/495/594/kjom6q80-0/t-shirt/f/j/b/l-aff-1048black-adiba-fashion-factory-original-imafz6uenneexbf7.jpeg?q=50",
-        "type":400
-      },
-      {
-        "id": 104,
-        "title": "Fiction",
-        "desc": "This is book1",
-        "prices":"1000",
-        "customer_rating":"3",
-        "brand":303,
-        "imageUrl":"https://rukminim1.flixcart.com/image/612/612/kgsb1jk0/book/9/4/5/cbse-new-pattern-15-sample-paper-science-class-10-for-2021-exam-original-imafwyaju5e4pqqz.jpeg?q=70",
-        "type":401
-      },
-      {
-        "id": 105,
-        "title": "Fact",
-        "desc": "This is book1",
-        "prices":"1000",
-        "customer_rating":"5",
-        "brand":304,
-        "imageUrl":"https://rukminim1.flixcart.com/image/612/612/khxqt8w0-0/book/x/o/v/attitude-is-everything-change-your-attitude-change-your-life-original-imafxtvesfbk8rje.jpeg?q=70",
-        "type":401
-      },
-      {
-        "id": 106,
-        "title": "Sci-Fi",
-        "desc": "This is book1",
-        "prices":"1000",
-        "customer_rating":"4",
-        "brand":301,
-        "imageUrl":"https://rukminim1.flixcart.com/image/612/612/kjkbv680/book/8/5/2/why-not-me-a-feeling-of-millions-original-imafz44ggyz7h2gg.jpeg?q=70",
-        "type":401
       }
     ]
-  }
+}
