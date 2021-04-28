@@ -1,14 +1,14 @@
 {
-    "items": [
-      {
-        "id": 100,
-        "title": "Suits",
-        "desc": "This is tshirt",
-        "prices":"800",
-        "customer_rating":"2",
-        "brand":300,
-        "imageUrl":"https://rukminim1.flixcart.com/image/495/594/kk5rgy80/t-shirt/r/3/4/xxl-tblhdful-d32-tripr-original-imafzkbskeagqyzf.jpeg",
-        "type":400
-      }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
