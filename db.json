@@ -322,72 +322,9 @@
     },
     "customer":{},
     "type":[
-      {
-        "id":"",
-        "name":"",
-        "desc":""
-      },
-      {
-        "id":"",
-        "name":"",
-        "desc":""
-      },
-      {
-        "id":"",
-        "name":"",
-        "desc":""
-      },
-      {
-        "id":"",
-        "name":"",
-        "desc":""
-      },
-      {
-        "id":"",
-        "name":"",
-        "desc":""
-      }
+
     ],
     "filters":[
-      {
-        "id":500,
-        "min-price":"",
-        "max-price":"",
-        "brand":"",
-        "customer_rating":"",
-        "type":""
-      },
-      {
-        "id":500,
-        "min-price":"",
-        "max-price":"",
-        "brand":"",
-        "customer_rating":"",
-        "type":""
-      },
-      {
-        "id":500,
-        "min-price":"",
-        "max-price":"",
-        "brand":"",
-        "customer_rating":"",
-        "type":""
-      },
-      {
-        "id":500,
-        "min-price":"",
-        "max-price":"",
-        "brand":"",
-        "customer_rating":"",
-        "type":""
-      },
-      {
-        "id":500,
-        "min-price":"",
-        "max-price":"",
-        "brand":"",
-        "customer_rating":"",
-        "type":""
-      }
+
     ]
   }
